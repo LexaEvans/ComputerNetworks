@@ -16,3 +16,6 @@ This is an archive of my college networking labs that I completed during Network
 # LAB 20 Etherchannel, RSTP, DNS, DHCP, ACL
 <img width="2276" height="912" alt="image" src="https://github.com/user-attachments/assets/c74d079d-85b7-40d3-8703-d624bf5e75ae" />
 !Note Subnetting was a task for a student and was not provided by teacher
+
+# LAB 13 NAT, DHCP
+<img width="2045" height="896" alt="image" src="https://github.com/user-attachments/assets/c57b67b3-3708-4d10-88d8-894e86ac311f" />

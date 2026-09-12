@@ -1,5 +1,6 @@
 # ComputerNetworks
 This is an archive of my college networking labs that I completed during Network course. These labs are not directly related to CCNA.
+! Attention ! Some of the labs were completed on actual network hardware due to requirments of the given tasks, so some labs in cisco packet tracer may not give full perspective.
 
 # LAB 18 RSTP, ETHERCHANNEL, DHCP, DNS, ACL
 <img width="2551" height="1106" alt="image" src="https://github.com/user-attachments/assets/be267709-036c-4dab-9e16-e8a6fa33b3ea" />

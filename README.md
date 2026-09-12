@@ -6,7 +6,7 @@ This is an archive of my college networking labs that I completed during Network
 !Note Subnetting was a task for a student and was not provided by teacher
 
 # LAB 21 EIGRP
-<img width="2095" height="962" alt="image" src="https://github.com/user-attachments/assets/e79315d5-bcee-4a61-abe4-55992f3d9c71" />
+<img width="1391" height="811" alt="image" src="https://github.com/user-attachments/assets/67991ea1-a2c1-486a-b5c9-96497360db49" />
 !Note Subnetting was a task for a student and was not provided by teacher
 
 # LAB 19 LACP, DNS, DCHP, ACL
